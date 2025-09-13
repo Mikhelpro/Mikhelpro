@@ -25,13 +25,19 @@
 
 
 
+
 ## 🏆 Achievements & Certifications
 
 You can view my certifications here:
 
-- [My digital traning ](https://github.com/Mikhelpro/certificates/blob/main/MDW-Certificate_Student-Training_Michael-Wondwossen.pdf)
+- [My digital World traning ](https://github.com/Mikhelpro/certificates/blob/main/MDW-Certificate_Student-Training_Michael-Wondwossen.pdf)
 - [Programming and Electronics ](https://github.com/Mikhelpro/certificates/blob/main/computer%20science%20and%20electronics..pdf)
 - [programming fundamentals ](https://github.com/Mikhelpro/certificates/blob/main/Udacity%20certifcate.pdf)
+- [World Robotics Olympiad ](https://github.com/Mikhelpro/certificates/blob/main/WRO.png)
+- [My digital World traning 1 ](https://github.com/Mikhelpro/certificates/blob/main/image_2025-02-07_10-02-05.png)
+- [Web development project ](https://github.com/Mikhelpro/certificates/blob/main/Web%20verses.pdf)
+- [Science fair excellence 2024](https://github.com/Mikhelpro/certificates/blob/main/N.F.S%20N.C.A.pdf)
+- [Arduino project ](https://github.com/Mikhelpro/certificates/blob/main/N.C.A%20obstacl%20and%20radar.pdf)
 
 
 ---
