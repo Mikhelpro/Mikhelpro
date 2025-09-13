@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Michael Wondwossen  
-![Profile Banner](https://github.com/YourGitHubUsername/YourRepoName/blob/main/banner.png)
-
-
-🎯 Passionate developer & innovator working on **Robotics, IoT, and Smart Systems**.  
+![Profile Banner](https://github.com/Mikhelpro/Mikhelpro/blob/main/Michael%20Wondwossen%20(1200%20x%20300%20px).png)
+🎯 Passionate developer & innovator working on **Webdevelopment ,Robotics, IoT, and Smart Systems**.  
 💡 I love building **Arduino-based solutions**, **AI-driven applications**, and **web systems** that solve real-world problems.  
 🌍 Exploring technology to create impact and make life easier.  
 
