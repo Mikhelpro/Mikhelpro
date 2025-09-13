@@ -29,7 +29,7 @@
 
 You can view my certifications here:
 
-- [Arduino Certification](https://github.com/YourGitHubUsername/certificates/blob/main/Arduino_Certification.pdf)
+- [My digital traning ](https://github.com/Mikhelpro/certificates/blob/main/Arduino_Certification.pdf)
 - [Python Basics](https://github.com/YourGitHubUsername/certificates/blob/main/Python_Basics.pdf)
 - [Web Development Certificate](https://github.com/YourGitHubUsername/certificates/blob/main/Web_Development.pdf)
 
