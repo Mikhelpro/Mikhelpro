@@ -29,7 +29,7 @@
 
 You can view my certifications here:
 
-- [My digital traning ](https://github.com/Mikhelpro/certificates/blob/main/Arduino_Certification.pdf)
+- [My digital traning ](https://github.com/Mikhelpro/certificates/blob/main/MDW-Certificate_Student-Training_Michael-Wondwossen.pdf)
 - [Python Basics](https://github.com/YourGitHubUsername/certificates/blob/main/Python_Basics.pdf)
 - [Web Development Certificate](https://github.com/YourGitHubUsername/certificates/blob/main/Web_Development.pdf)
 
