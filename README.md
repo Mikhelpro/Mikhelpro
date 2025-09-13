@@ -30,7 +30,7 @@
 You can view my certifications here:
 
 - [My digital traning ](https://github.com/Mikhelpro/certificates/blob/main/MDW-Certificate_Student-Training_Michael-Wondwossen.pdf)
-- [Python Basics](https://github.com/YourGitHubUsername/certificates/blob/main/Python_Basics.pdf)
+- [Programming and Electronics ](https://github.com/Mikhelpro/certificates/blob/main/computer%20science%20and%20electronics..pdf)
 - [programming fundamentals ](https://github.com/Mikhelpro/certificates/blob/main/Udacity%20certifcate.pdf)
 
 
