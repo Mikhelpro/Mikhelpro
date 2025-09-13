@@ -23,6 +23,17 @@
 ![Servo Motors](https://img.shields.io/badge/Servo-Motors-FF5733?style=for-the-badge) 
 ![Sensors](https://img.shields.io/badge/Sensors-FFC300?style=for-the-badge)
 
+
+
+## 🏆 Achievements & Certifications
+
+You can view my certifications here:
+
+- [Arduino Certification](https://github.com/YourGitHubUsername/certificates/blob/main/Arduino_Certification.pdf)
+- [Python Basics](https://github.com/YourGitHubUsername/certificates/blob/main/Python_Basics.pdf)
+- [Web Development Certificate](https://github.com/YourGitHubUsername/certificates/blob/main/Web_Development.pdf)
+
+
 ---
 
 ## 🚀 Projects  
