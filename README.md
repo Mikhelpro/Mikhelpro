@@ -66,9 +66,14 @@ You can view my certifications here:
 
 ---
 
+---
 ## ✨ Fun Fact  
 > *“The best way to predict the future is to invent it.”* 🚀  
 
 ---
 
 ⚡ **Let’s connect and build amazing things together!**  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Wondwossenmichael4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-wondwossen-4059392a5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=about.me&logoColor=white)](https://michaelwondwossenportfolio.netlify.app/)
+
